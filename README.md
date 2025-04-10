@@ -18,6 +18,7 @@ Initially, key nodes are placed on body parts such as the neck and torso. Straig
 The script communicates with an Arduino UNO. If the posture is detected as bad, a red LED lights up and a buzzer sounds to alert the user. When the posture is corrected, the LED turns green.
 
 After each session, the user receives a report showing how much time was spent in good vs. bad posture, along with additional insights.
+
 <img src="Schema.png" alt="Posture Detection System Schema" width="500"/>
 
 
