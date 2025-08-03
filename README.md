@@ -21,7 +21,8 @@ After each session, the user receives a report showing how much time was spent i
 
 <img src="media/Schema.png" alt="Posture Detection System Schema" width="500"/>
 
-![Demo](media/demo.gif)
+<img src="media/demo.gif" alt="Demo GIF" width="300" height="200"/>
+
 
 
 
