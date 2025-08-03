@@ -19,9 +19,9 @@ The script communicates with an Arduino UNO. If the posture is detected as bad, 
 
 After each session, the user receives a report showing how much time was spent in good vs. bad posture, along with additional insights.
 
-<img src="media/Schema.png" alt="Posture Detection System Schema" width="500"/>
+<img src="media/Schema.png" alt="Posture Detection System Schema" width="400"/>
 
-<img src="media/demo.gif" alt="Demo GIF" width="300" height="200"/>
+<img src="media/demo.gif" alt="Demo GIF" width="300" height="400"/>
 
 
 
@@ -33,4 +33,5 @@ After each session, the user receives a report showing how much time was spent i
 ## Notes
 
 The model used was adapted from [mecantronic/posture-monitor](https://github.com/mecantronic/posture-monitor), with slight modifications.
+
 
